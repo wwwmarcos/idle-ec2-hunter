@@ -1,0 +1,13 @@
+{
+  "name": "idle-ec2-hunter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eptaccio/idle-ec2-hunter.git",
+  "author": "<marcos.florencio@tecnospeed.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.391.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0"
+  }
+}
